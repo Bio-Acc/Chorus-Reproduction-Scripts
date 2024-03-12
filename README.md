@@ -145,6 +145,7 @@ or you can use this command to download it.
 wget https://github.com/FanxwGit/Chorus-Reproduction-Scripts/releases/download/v1.0/crispr_query.zip
 unzip crispr_query.zip
 ```
+**The result of the cas1213discovery is also available in this repository's release.**
 
 **More details about Cas-analysis in this notes.md**
 
